@@ -113,7 +113,7 @@ for json_file in json_files:
                 # Agency Initialization
                 selenium_config = {
                     # your profile path
-                    "chrome_profile_path": "/Users/amiralsad/Library/Application Support/Google/Chrome/Profile 3",
+                    "chrome_profile_path": "",
                     "headless": False,
                     "full_page_screenshot": True,
                 }
@@ -139,8 +139,8 @@ for json_file in json_files:
 1. **Read the URL**: Access the provided link, `{provided_link}` and use the '[send screenshot]' command to view the page.
 2. **Login Instructions**:
     - If you are not logged in already, log in to the website using the '[highlight text fields]' command and the following credentials:
-    - **Username**: `amir7alsad@gmail.com`
-    - **Password**: `@17AMIR17amir17@`
+    - **Username**: ``
+    - **Password**: ``
 3. **Navigate and Search**:
     - Click on the first profile that appears in the search results using the `ClickElement` tool.
     - If there are no search results, reply to the user indicating that no profiles were found.
