@@ -2,11 +2,11 @@ import os
 
 wd = None
 
-selenium_config = {
-    "chrome_profile_path": "/Users/amiralsad/Library/Application Support/Google/Chrome/Profile 3",
-    "headless": False,
-    "full_page_screenshot": True,
-}
+# selenium_config = {
+#     "chrome_profile_path": "",
+#     "headless": False,
+#     "full_page_screenshot": True,
+# }
 
 
 def get_web_driver():

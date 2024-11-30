@@ -10,7 +10,7 @@ load_dotenv()
 API_KEY = os.getenv("RELEVANCE_API_KEY")  # Ensure the API key is set in the .env file
 
 # Define the API URL and headers
-API_URL = "https://api-bcbe5a.stack.tryrelevance.com/latest/studios/eb6eea74-829c-4f28-8340-5339bb13c216/trigger_limited"
+API_URL = ""
 HEADERS = {
     "Content-Type": "application/json",
     "Authorization": API_KEY
@@ -32,7 +32,7 @@ def process_csv(input_file, output_file):
                     "url": row['link'],  # Use the 'link' column from the CSV
                     "name": ""  # Leave the 'name' field empty
                 },
-                "project": "51ff8f1c-9565-4989-8bd3-9370ea705f24"
+                "project": ""
             }
 
             # Make the API request
