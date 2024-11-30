@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Mr. Alban C Cobi",
+        "class_year": "'12, SM '20",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Eric O Correll",
+        "class_year": "'10",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. James Michael Cuseo",
+        "class_year": "SM '05",
+        "degrees": [
+            "SM - Master Of Science"
+        ],
+        "major": "Mech Eng - SmEng"
+    },
+    {
+        "name": "Ms. Natalie S Doste",
+        "class_year": "'14",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Mingfei Duan",
+        "class_year": "'22",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Dr. Keith V Durand",
+        "class_year": "'05, SM '07, PhD '11",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science",
+            "PhD - Doctor Of Philosophy"
+        ],
+        "major": "Mechanical Engineering"
+    }
+]

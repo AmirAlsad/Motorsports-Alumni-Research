@@ -1,0 +1,39 @@
+Copy-Paste Stuff:
+
+The task involves managing a process to extract information from a specific section of a website and ensure data is processed and transferred accurately.
+
+# Steps
+
+1. **Navigate to Website**:
+   - Go to the URL: "https://alum.mit.edu/directory/#/"
+   - Press the login button to proceed with saved password information.
+
+2. **Login (If Needed)**:
+   - If login information is not automatically filled:
+     - Use the provided credentials:
+       - Username: `amiralsad`
+       - Password: `@17(aiarcg)17@`
+
+3. **Access CEO Section**:
+   - Locate the 'Saved Searches' and click on the 'CEO' section.
+
+4. **Take Screenshots**:
+   - Use the `TakeScreenshots` tool to take screenshots of the current page.
+
+5. **Analyze Screenshots**:
+   - Use the `AnalyzeScreenshots` tool to analyze the screenshots.
+
+6. **Continue to the next page**:
+   - Use the **'[highlight clickable elements]'** command along with the `ClickElement` tool to navigate to the next page.
+
+7. **Repeat Steps 4-6**:
+   - Continue to take screenshots, analyze them, and navigate through the pages until all desired information is extracted.
+
+
+########################################################################################
+
+Continue with the previously outlined process.
+
+########################################################################################
+
+Try again and continue with the previously outlined process.
