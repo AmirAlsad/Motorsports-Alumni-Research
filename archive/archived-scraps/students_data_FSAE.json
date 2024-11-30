@@ -1,0 +1,835 @@
+[
+    {
+        "name": "Mr. Reid F Allen",
+        "class_year": "'08",
+        "degrees": [
+            "SB - Bachelor of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Brian L Alvarez",
+        "class_year": "'15",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. Wasay Anwer",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Andrea Arce",
+        "class_year": "'15",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Joseph M Audette",
+        "class_year": "'05",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Mr. Cameron M Baston",
+        "class_year": "'04",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Anastasiya Bershanska",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. David W Bian",
+        "class_year": "'15, SM '17",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Samuel J Bockman",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Ali S Booeshaghi",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering, Mathematics"
+    },
+    {
+        "name": "Mr. Erich J Brandeau",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Samantha J Bray",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Nelson A Brock",
+        "class_year": "'15",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Ms. Lauren S Burton",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Andrew T Carlson",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Alban C Cobi",
+        "class_year": "'12, SM '20",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Eric O Correll",
+        "class_year": "'10",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. James Michael Cuseo",
+        "class_year": "SM '05",
+        "degrees": [
+            "SM - Master Of Science"
+        ],
+        "major": "Mech Eng - SmEng"
+    },
+    {
+        "name": "Ms. Natalie S Doste",
+        "class_year": "'14",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Mingfei Duan",
+        "class_year": "'22",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Dr. Keith V Durand",
+        "class_year": "'05, SM '07, PhD '11",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science",
+            "PhD - Doctor Of Philosophy"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Ariana J Eisenstein",
+        "class_year": "'15, MNG '16",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Ms. Katherine S Ellinger",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Math With Comp Sci"
+    },
+    {
+        "name": "Mr. Ehsan Farkhondeh",
+        "class_year": "'04",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Aaron N Flores",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Steven A Gerasimoff",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Nikhil S Gidwani",
+        "class_year": "'04",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Management"
+    },
+    {
+        "name": "Mr. David J Gomez",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Electrical Engng"
+    },
+    {
+        "name": "Mr. John K Graham",
+        "class_year": "'16, SM '17",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering, Aeronautics Sm Eng"
+    },
+    {
+        "name": "Mr. Alexis A Hakim",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Jimmie D Harris",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. William Harvey",
+        "class_year": "'18",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Alexander G Heifetz",
+        "class_year": "'16, MNG '17",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Comp Sci & Engng"
+    },
+    {
+        "name": "Ms. Kirstyn Hein",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Cheyenne D Hua",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Ann M Huston",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Mr. Douglas C Hwang",
+        "class_year": "'05, MBA '11",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MBA - Masters Business Adm"
+        ],
+        "major": "Mechanical Engineering, Management"
+    },
+    {
+        "name": "Mr. Richard A James",
+        "class_year": "'04, SM '06",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Eric G Johnson",
+        "class_year": "'15, MNG '16",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Electrical Science and Engineering, Electrical Engineering and Computer Science"
+    },
+    {
+        "name": "Mr. James Alexander Scott Katzen",
+        "class_year": "'96, MBA '03, SM '03",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MBA - Masters Business Adm",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering, Management Leaders"
+    },
+    {
+        "name": "Mr. Anthony R Kawecki",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Sammy M Khalifa",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Sabrina Y Khan",
+        "class_year": "'20",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Earth Atmos Planetary, Amer&Env"
+    },
+    {
+        "name": "Ms. Julia G Kimmerley",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Philosophy"
+    },
+    {
+        "name": "Mr. Eric J Lampe",
+        "class_year": "'07",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Alexander I Lednev",
+        "class_year": "'16, MNG '18",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Electrical Engng, Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Zoe Levitt",
+        "class_year": "'21",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Earth Atmos Planetary"
+    },
+    {
+        "name": "Mr. Xiang Li",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Mr. Jianguo Lin",
+        "class_year": "'05",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Isabelle Y Liu",
+        "class_year": "'20, MNG '22",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Mech Eng - Coop, Elec Eng & Comp Sci, Electrical Engineering and Computer Science"
+    },
+    {
+        "name": "Mr. Sebastian A Lopez-Cot",
+        "class_year": "'19, MNG '20",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. Patrick J Lowe",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. Timothy Z Liu",
+        "class_year": "'18",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Ms. Rachel S Luo",
+        "class_year": "'14",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Ms. Rebecca G McCabe",
+        "class_year": "'21",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Mrs. Rebecca H Mcgill",
+        "class_year": "'17",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Henry Merrow",
+        "class_year": "'17, SM '19",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering, Mech Eng - SmEng"
+    },
+    {
+        "name": "Mr. Elijah B Miller",
+        "class_year": "'20",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Douglas Lands Milliken",
+        "class_year": "'77",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Architecture"
+    },
+    {
+        "name": "Mr. Ryan M Morrow",
+        "class_year": "'10",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Jessy Mbagara Mwarage",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Sade K Nabate",
+        "class_year": "'17, SM '21",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering, Technology and Policy Program"
+    },
+    {
+        "name": "Mr. Michael Thomas Nawrot",
+        "class_year": "'12, SM '14",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Justin Negrete",
+        "class_year": "'10",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Zachary D Nelson",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Ms. Kelly C O'Brien",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "AeroAstro"
+    },
+    {
+        "name": "Mr. Cameron Ordone",
+        "class_year": "'19",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. James S Osteen",
+        "class_year": "'06",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Yamile Pariente",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Benjamin R Potash",
+        "class_year": "'14",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Jessica B Press-Williams",
+        "class_year": "'06",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. David A Proudfoot",
+        "class_year": "'06",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Samuel T Reineman",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Nathaniel H Rodman",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Ms. Adrianna C Rodriguez",
+        "class_year": "'16",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Dhananjay V Saranadh",
+        "class_year": "'14, SM '15",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Anthony W Sceifo",
+        "class_year": "'04, '06, MNG '06",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Computer Sci & Engng, Management, Electrical Engineering and Computer Science"
+    },
+    {
+        "name": "Mr. Justin J Schmetzer",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Electrical Engng"
+    },
+    {
+        "name": "Mr. Brian R Sennett",
+        "class_year": "'13, MNG '15",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Ms. Emily Shi",
+        "class_year": "'23",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Management"
+    },
+    {
+        "name": "Dr. Alexander H Slocum",
+        "class_year": "'08, SM '10, PhD '13",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science",
+            "PhD - Doctor Of Philosophy"
+        ],
+        "major": "Mechanical Engineering, Mech Eng - Doctoral"
+    },
+    {
+        "name": "Dr. Jonathan T Slocum",
+        "class_year": "'14, SM '16, SCD '18",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science",
+            "SCD - Doctor Of Science"
+        ],
+        "major": "Mechanical Engineering, Mech Eng - Sm Eng, Mech Eng - Doctoral"
+    },
+    {
+        "name": "Ms. Jacqueline R Sly",
+        "class_year": "'14",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Alex J Speltz",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech Eng - Coop"
+    },
+    {
+        "name": "Mr. Shaivansh Sukesh",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Peter M Tia",
+        "class_year": "'12",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Miranda Kodtis Titus",
+        "class_year": "'17, SM '19",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Valeriia Tyshchenko",
+        "class_year": "'23",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Ms. Tenzin S Ukyab",
+        "class_year": "'20, MNG '21",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "MNG - Master Of Engineering"
+        ],
+        "major": "Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. Adam S Vickerman",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Jack J Wanderman",
+        "class_year": "'13",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Brian J Wanek",
+        "class_year": "2017",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Orlando F Ward-Santos",
+        "class_year": "2017",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Dr. Quantum J Wei",
+        "class_year": "2015",
+        "degrees": [
+            "SB - Bachelor Of Science",
+            "SM - Master Of Science",
+            "PhD - Doctor Of Philosophy"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Terran L Winter Fox",
+        "class_year": "2018",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. David J Wise",
+        "class_year": "2014",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mech and Ocean Eng - SB"
+    },
+    {
+        "name": "Ms. Catherine Yao",
+        "class_year": "2019",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Computer Sci & Engrg"
+    },
+    {
+        "name": "Mr. Dario X Yazdi",
+        "class_year": "2014",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Tolga T Yazicioglu",
+        "class_year": "2008",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Hesham M Zaini",
+        "class_year": "2015",
+        "degrees": [
+            "SB - Bachelor Of Science"
+        ],
+        "major": "Mechanical Engineering"
+    }
+]

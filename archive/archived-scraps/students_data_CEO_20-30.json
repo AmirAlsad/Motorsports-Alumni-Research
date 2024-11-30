@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Mr. Raul A Alcantara Castillo",
+        "class_year": "'22, MNG '23",
+        "degrees": [
+            "SB, Bachelor of Science, Computer Sci & Eng, 2022",
+            "MNG, Master of Engineering, BP - Elec Eng & Comp Sci, 2023"
+        ],
+        "major": "Computer Sci & Eng, BP - Elec Eng & Comp Sci"
+    },
+    {
+        "name": "Mr. Chafik Barbar",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Master of Business Administration, 2020"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Dr. John Frank",
+        "class_year": "PhD '23",
+        "degrees": [
+            "PhD, Doctor of Philosophy, Physics - Doctoral"
+        ],
+        "major": "Physics - Doctoral"
+    },
+    {
+        "name": "Mr. Tony Hanada",
+        "class_year": "AF '20, MBA '20",
+        "degrees": [
+            "AF, Non-Degree Affiliate Program, 2020",
+            "MBA, Master of Business Administration, 2020"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. Eric Robert Haywood",
+        "class_year": "AF '23, SM '24",
+        "degrees": [
+            "AF, Non-Degree Affiliate Program, 2023",
+            "SM, Master Of Science, Management, 2024"
+        ],
+        "major": "Management"
+    },
+    {
+        "name": "Mr. Thanasak Hoontrakul",
+        "class_year": "SM '22",
+        "degrees": [
+            "SM, Master Of Science, IS - Management, SM Mgt Studies, 2022"
+        ],
+        "major": "IS - Management, SM Mgt Studies"
+    },
+    {
+        "name": "Mr. Jongwoong Kim",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, 2020"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. Matthew Paul Knott",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, IS - Management, 2020"
+        ],
+        "major": "Business Administration, IS - Management"
+    },
+    {
+        "name": "Mr. Mark Laivins",
+        "class_year": "MBA '22",
+        "degrees": [
+            "MBA, Masters Business Admin, 2022"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Ms. Megan Kathleen Lanham",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, 2020"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. Jurgen Jose Lebacs",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, IS - Management, 2020"
+        ],
+        "major": "Business Administration, IS - Management"
+    },
+    {
+        "name": "Mr. Gaurav Mehta",
+        "class_year": "AF '20, MBA '21",
+        "degrees": [
+            "AF, Non-Degree Affiliate Program, 2020",
+            "MBA, Masters Business Admin, 2021"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. BK Nayak",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, 2020"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. BK Nayak",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, IS - Management, 2020"
+        ],
+        "major": "Business Administration, IS - Management"
+    },
+    {
+        "name": "Mr. Moritake Ota",
+        "class_year": "MBA '22",
+        "degrees": [
+            "MBA, Masters Business Admin, 2022"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Ms. Breana Patel",
+        "class_year": "MBA '24",
+        "degrees": [
+            "MBA, Masters Business Admin, IS - Management, 2024"
+        ],
+        "major": "Business Administration, IS - Management"
+    },
+    {
+        "name": "Mr. Alfredo Togle Silva",
+        "class_year": "MBA '21",
+        "degrees": [
+            "MBA, Masters Business Admin, IS - Management, 2021"
+        ],
+        "major": "Business Administration, IS - Management"
+    },
+    {
+        "name": "Valeria Tyshchenko",
+        "class_year": "'23",
+        "degrees": [
+            "SB, Bachelor Of Science, Mechanical Engineering, 2023"
+        ],
+        "major": "Mechanical Engineering"
+    },
+    {
+        "name": "Mr. Adrian Villarreal Chavez",
+        "class_year": "MBA '23",
+        "degrees": [
+            "MBA, Masters Business Admin, 2023"
+        ],
+        "major": "Business Administration"
+    },
+    {
+        "name": "Mr. Jeffrey Bowman Wigh",
+        "class_year": "MBA '20",
+        "degrees": [
+            "MBA, Masters Business Admin, 2020"
+        ],
+        "major": "Business Administration"
+    }
+]
